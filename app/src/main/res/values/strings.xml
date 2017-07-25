@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Github Repo</string>
+    <string name="search">Search</string>
+    <string name="error_message">Data Load Unsuccessful</string>
+</resources>
